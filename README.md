@@ -1,6 +1,6 @@
 # emotion_detection
 
-A new Flutter project.
+In this Flutter project human emotions are detected using facial recognition.
 
 ## Getting Started
 
